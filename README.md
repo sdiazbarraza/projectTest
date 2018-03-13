@@ -5,6 +5,7 @@
 ```
 PHP 7.0>
 MySQL 5.4>
+Laravel 5.5
 NodeJS
   Express
   mysql
