@@ -53,5 +53,5 @@ Show 20 product most searched & top 5 word like test
 ### Metod POST /search
 Search product by keyword
 ```
-//host:PORT/api/search
+//host:PORT/quizzes
 ```
